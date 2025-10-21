@@ -1,4 +1,4 @@
-# sarahnpadilla.github.io
+# Sarah Padilla
 
 ## about me 
   -descriptions
