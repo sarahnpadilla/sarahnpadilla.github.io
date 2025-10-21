@@ -1,1 +1,13 @@
+title: Portfolio
+description: My portfolio resume
+author: Sarah
+
+# Theme (optional)
 remote_theme: daattali/beautiful-jekyll:master
+
+# URL settings
+baseurl: "/repository-name"  # Leave empty if using username.github.io
+url: "https://sarahnpadilla.github.io"
+
+# Build settings
+markdown: kramdown
