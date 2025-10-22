@@ -1,15 +1,29 @@
-title: Portfolio
-description: My portfolio resume
-author: Sarah
+title: Sarah Padilla
+description: Computer Science and Engineering Portfolio
+author: Sarah Padilla
 
-# Theme (optional)
-remote_theme: daattali/beautiful-jekyll
+# Theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # URL settings
-baseurl: ""  # Leave empty if using username.github.io
+baseurl: ""
 url: "https://sarahnpadilla.github.io"
+
+# Navigation links (appears in header)
+navbar-links:
+  About: "index"
+  Projects: "projects"
+  Contact: "contact"
+
+# Social media
+social-network-links:
+  email: "sarahpadilla101@gmail.com"
+  github: sarahnpadilla
+  linkedin: sarahnpadilla
 
 # Build settings
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+
 markdown: kramdown
