@@ -1,14 +1,15 @@
-# Sarah Padilla
+# Sarah Padilla - Portfolio Website
 
-## about me 
+Personal portfolio website showcasing my experience and projects.
+
+## About me 
   -descriptions
-  -links
 
-## education
+## Education
   -description
 
-## work experience
+## Experience
   -description
 
-## projects
+## Projects
   -description
